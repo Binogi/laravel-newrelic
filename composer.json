@@ -3,7 +3,7 @@
     "type":              "library",
     "keywords":          ["newrelic", "new relic", "laravel"],
     "homepage":          "https://github.com/Binogi/laravel-newrelic",
-    "license":           "Apache 2.0",
+    "license":           "Apache-2.0",
     "description":       "Laravel NewRelic Integration - Binogi Fork",
     "authors":           [
         {
