@@ -1,5 +1,5 @@
 {
-    "name":              "Binogi/laravel-newrelic",
+    "name":              "binogi/laravel-newrelic",
     "type":              "library",
     "keywords":          ["newrelic", "new relic", "laravel"],
     "homepage":          "https://github.com/Binogi/laravel-newrelic",
